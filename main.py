@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🌍 Global Market Stock Dashboard")
+st.title("🌍 Global Market Stock Dashboard By Suhee Agenes")
 st.caption("Yahoo Finance 기반 글로벌 주요 지수 및 대표 종목 대시보드")
 
 MARKETS = {
