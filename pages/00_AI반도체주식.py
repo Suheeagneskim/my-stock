@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🧠 AI 반도체 주식 전문 분석")
+st.title("🧠 AI 반도체 주식 전문 분석 by Suhee Agnes")
 st.caption("Yahoo Finance 기반 AI 반도체 대표 종목 비교·모멘텀·변동성·상대성과 분석")
 
 AI_SEMI_STOCKS = {
