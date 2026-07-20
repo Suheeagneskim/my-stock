@@ -296,3 +296,7 @@ with tab3:
 
 st.markdown("---")
 st.caption("Data source: Yahoo Finance via yfinance")
+streamlit
+yfinance
+pandas
+plotly
