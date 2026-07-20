@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🏥 한국 의료관련주식 전문 분석")
+st.title("🏥 한국 의료관련주식 전문 분석 by Suhee Agnes")
 st.caption("Yahoo Finance 기반 한국 헬스케어·제약·의료기기·AI의료 종목 비교 대시보드")
 
 KOREA_HEALTHCARE_STOCKS = {
